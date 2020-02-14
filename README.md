@@ -1,1 +1,1 @@
-# ai-safety-100-days
+# ai-safety-in-100-days
